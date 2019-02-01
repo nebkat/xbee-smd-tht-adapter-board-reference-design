@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XBee_SMT_GND_Pad
+D Digi Xbee SMT RF module
+K Digi XBee
+F http://www.digi.com/resources/documentation/digidocs/pdfs/90002126.pdf
+$ENDCMP
+#
+#End Doc Library
